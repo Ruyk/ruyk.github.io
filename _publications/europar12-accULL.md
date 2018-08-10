@@ -3,7 +3,7 @@ title: "accULL: An OpenACC Implementation with CUDA and OpenCL Support"
 collection: publications
 permalink: /publication/2012-europar-accULL-openacc-with-cuda-and-ocl
 excerpt: 'accULL: An OpenACC Implementation with CUDA and OpenCL Support'
-date: 2012
+date: 2012-06-01
 venue: 'Kaklamanis C., Papatheodorou T., Spirakis P.G. (eds) Euro-Par 2012 Parallel Processing. Euro-Par 2012. Lecture Notes in Computer Science, vol 7484. Springer, Berlin, Heidelberg'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Reyes R., López-Rodríguez I., Fumero J.J., de Sande F. (2012) accULL: An OpenACC Implementation with CUDA and OpenCL Support. In: Kaklamanis C., Papatheodorou T., Spirakis P.G. (eds) Euro-Par 2012 Parallel Processing. Euro-Par 2012. Lecture Notes in Computer Science, vol 7484. Springer, Berlin, Heidelberg'
