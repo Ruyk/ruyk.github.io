@@ -14,4 +14,4 @@ I hold a PhD from University of La Laguna (Spain). I completed my dissertation, 
 
 After doing a single compiler patch, I moved to Research Runtime Engineer in, what is now known as, [ComputeCpp](http://www.computecpp.com). 
 
-Currently I am Principal Software Engineer in Programming Models, I lead the ComputeCpp team (9 people) and help coordinate the company strategy in SYCL, C++ and Safety critical standards.
+Currently I am Principal Software Engineer in Programming Models, leading the ComputeCpp team (9+ people) and help coordinate the company strategy in SYCL, C++ and Safety critical standards.
