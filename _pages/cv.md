@@ -11,13 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in Universidad de La Laguna, 2006
-* M.S. in Universidad de La Laguna, 2009
 * Ph.D in Universidad de La Laguna, 2012
+* B.S. + M.S. in Universidad de La Laguna, 2002 - 2009
 
 Work experience
 ======
-...
+
+* Principal Software Engineer, Codeplay Software Ltd. 2013 - Today
+* Application Developer, EPCC 2012 - 2013
+* Research Assistant, Universitat Jaume I Castellon, 2010 - 2012
+* Research Assistant, Universidad de La Laguna, 2010
+* Tecnico Infrastructuras, Universidad de La Laguna, 2006 - 2010
   
 Skills
 ======
